@@ -1,0 +1,1175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\repositorios\\cargorepositoriopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\repositorios\\cargorepositoriopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\nucleo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\nucleo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\repositorios\\autorrepositoriopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\repositorios\\autorrepositoriopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\sucursalserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\sucursalserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\reservaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\reservaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\prestamoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\prestamoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\paisserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\paisserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\pagoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\pagoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\multaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\multaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\miembroserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\miembroserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\libroserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\libroserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\idiomaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\idiomaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\empleadoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\empleadoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\editorialserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\editorialserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\ciudadserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\ciudadserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\categoriaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\categoriaserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\cargoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\cargoserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\servicios\\autorserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\servicios\\autorserviciopruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\contexto\\fullbibliotecacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\contexto\\fullbibliotecacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\3.nucleo\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{276C2D6A-2795-28C5-08F4-BC5E26A6FE4C}|3.Nucleo\\lib_dominio\\lib_dominio.csproj|solutionrelative:3.nucleo\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\sucursalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\sucursalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\sucursalrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\sucursalrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\reservaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\reservaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\prestamoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\prestamoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\prestamorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\prestamorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\paisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\paisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\paisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\paisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\pagoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\pagoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\pagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\pagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\multaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\multaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\multarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\multarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\miembroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\miembroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\miembrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\miembrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\libroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\libroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\librorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\librorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\idiomaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\idiomaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\idiomarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\idiomarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\empleadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\empleadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\editorialservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\editorialservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\editorialrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\editorialrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\ciudadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\ciudadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\ciudadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\ciudadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\cargoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\cargoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\cargorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\cargorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\autorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\autorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\2.servicios\\lib_repositorios\\implementaciones\\autorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF6C7B-74C4-2065-5A6B-46EEEDB3D9DD}|2.Servicios\\lib_repositorios\\lib_repositorios.csproj|solutionrelative:2.servicios\\lib_repositorios\\implementaciones\\autorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|c:\\users\\personal\\desktop\\fullbiblioteca\\4.pruebasunitarias\\ut_presentacion\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE9D4EB3-5DAD-FF06-7D3D-8D41076D2988}|4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj|solutionrelative:4.pruebasunitarias\\ut_presentacion\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Nucleo\\appsettings.json",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Nucleo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Nucleo\\appsettings.json",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Nucleo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T10:43:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargoRepositorioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\CargoRepositorioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\CargoRepositorioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\CargoRepositorioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\CargoRepositorioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:43:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SucursalServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\SucursalServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\SucursalServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\SucursalServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\SucursalServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservaServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\ReservaServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\ReservaServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\ReservaServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\ReservaServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:51.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrestamoServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PrestamoServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PrestamoServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PrestamoServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PrestamoServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:44.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaisServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PaisServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PaisServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PaisServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PaisServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagoServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PagoServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PagoServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PagoServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\PagoServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultaServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MultaServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MultaServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MultaServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MultaServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiembroServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MiembroServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MiembroServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MiembroServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\MiembroServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:05.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorRepositorioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\AutorRepositorioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\AutorRepositorioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\AutorRepositorioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Repositorios\\AutorRepositorioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:39:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibroServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\LibroServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\LibroServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\LibroServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\LibroServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdiomaServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\IdiomaServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\IdiomaServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\IdiomaServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\IdiomaServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadoServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EmpleadoServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EmpleadoServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EmpleadoServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EmpleadoServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:45.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditorialServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EditorialServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EditorialServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EditorialServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\EditorialServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CiudadServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CiudadServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CiudadServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CiudadServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CiudadServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CategoriaServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CategoriaServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CategoriaServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CategoriaServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CargoServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CargoServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CargoServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CargoServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\CargoServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:41:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorServicioPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\AutorServicioPruebas.cs",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\AutorServicioPruebas.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Servicios\\AutorServicioPruebas.cs",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Servicios\\AutorServicioPruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:39:34.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Sucursal.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Sucursal.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:39:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Reserva.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Reserva.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:39:05.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Prestamo.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:39:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Pais.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Pais.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Pais.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Pago.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Pago.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Pago.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:53.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Multa.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Multa.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Multa.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Miembro.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Miembro.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Miembro.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Libro.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Idioma.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Idioma.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Idioma.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Editorial.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Editorial.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Editorial.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Editorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Ciudad.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Ciudad.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Cargo.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Cargo.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Cargo.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:17.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Entidades\\Autor.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:38:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FullBibliotecaContexto.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Contexto\\FullBibliotecaContexto.cs",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\Contexto\\FullBibliotecaContexto.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\Contexto\\FullBibliotecaContexto.cs",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\Contexto\\FullBibliotecaContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:53.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "lib_dominio",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\lib_dominio.csproj",
+              "RelativeDocumentMoniker": "3.Nucleo\\lib_dominio\\lib_dominio.csproj",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\3.Nucleo\\lib_dominio\\lib_dominio.csproj",
+              "RelativeToolTip": "3.Nucleo\\lib_dominio\\lib_dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T10:37:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SucursalServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\SucursalServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\SucursalServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\SucursalServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\SucursalServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SucursalRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\SucursalRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\SucursalRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\SucursalRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\SucursalRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:35.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReservaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\ReservaServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\ReservaServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\ReservaServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\ReservaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:32.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReservaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\ReservaRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\ReservaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\ReservaRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\ReservaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PrestamoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:25.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PrestamoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PrestamoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaisServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PaisServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PaisServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PaisServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PaisServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:17.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaisRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PaisRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PaisRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PaisRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PaisRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Interfaces\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Interfaces\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Interfaces\\IRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Interfaces\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:35:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PagoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PagoServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PagoServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PagoServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PagoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:09.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PagoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PagoRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\PagoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\PagoRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\PagoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MultaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MultaServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\MultaServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MultaServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\MultaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:37:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MultaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MultaRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\MultaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MultaRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\MultaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MiembroServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MiembroServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\MiembroServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MiembroServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\MiembroServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MiembroRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MiembroRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\MiembroRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\MiembroRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\MiembroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:49.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LibroServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\LibroServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\LibroServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\LibroServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\LibroServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LibroRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\LibroRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\LibroRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\LibroRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\LibroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:42.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IdiomaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IdiomaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\IdiomaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmpleadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EmpleadoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\EmpleadoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EditorialServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EditorialServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\EditorialServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EditorialServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\EditorialServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:23.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EditorialRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EditorialRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\EditorialRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\EditorialRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\EditorialRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CiudadServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CiudadServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CiudadServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CiudadServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CiudadServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:15.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CiudadRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CiudadRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CiudadRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CiudadRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CiudadRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:36:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CargoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CargoServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CargoServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CargoServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CargoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:35:57.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CargoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CargoRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\CargoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\CargoRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\CargoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:35:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AutorServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\AutorServicio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\AutorServicio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\AutorServicio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\AutorServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:35:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AutorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\AutorRepositorio.cs",
+              "RelativeDocumentMoniker": "2.Servicios\\lib_repositorios\\Implementaciones\\AutorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\2.Servicios\\lib_repositorios\\Implementaciones\\AutorRepositorio.cs",
+              "RelativeToolTip": "2.Servicios\\lib_repositorios\\Implementaciones\\AutorRepositorio.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:35:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj",
+              "RelativeDocumentMoniker": "4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Personal\\Desktop\\FullBiblioteca\\4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj",
+              "RelativeToolTip": "4.PruebasUnitarias\\ut_Presentacion\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T10:34:37.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
